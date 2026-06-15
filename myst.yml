@@ -6,7 +6,27 @@ project:
   title: Feature Tracking Cookbook
   github: https://github.com/projectpythia/feature-tracking-cookbook
   authors:
-    - name: The Project Pythia Community
+    - name: Matthew Lynne
+      affiliation: UAlbany
+      orcid: 0009-0000-5557-2506
+    - name: Sarah Ravellette
+      affiliation: "Univerity of California, Berkeley"
+      orcid: 0009-0007-5130-3924
+    - name: Snigdha Samantaray
+      affiliation: "University of Miami"
+      orcid: 0009-0009-1617-1270
+    - name: Christine Deng
+      affiliation: "University of California, San Diego"
+      orcid: 0009-0002-7492-5754
+    - name: Jacob Vile
+      affiliation: UAlbany
+      orcid: 0009-0007-5400-9296
+    - name: Reda Algendy
+      affiliation: "Tuskegee University"
+      orcid: 0009-0003-0835-7397
+    - brian-rose
+  exports:
+    - format: cff
   copyright: '2026'
   toc:
     - file: README.md
