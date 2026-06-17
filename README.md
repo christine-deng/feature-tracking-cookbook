@@ -19,10 +19,10 @@ Listed below is the workflow for identifying and tracking 2D geophysical feature
 
 More specifically, it is aimed at users who have fields such as sea-level pressure, precipitation, CWV, temperature, vorticity, or reflectivity, and want to:
 
- -Identify spatial objects from a thresholded field
- -Compare different object-identification methods
- -Extract simple object properties such as area, centroid, and mask
- -Track those objects through time using frame-to-frame overlap
+ - Identify spatial objects from a thresholded field
+ - Compare different object-identification methods
+ - Extract simple object properties such as area, centroid, and mask
+ - Track those objects through time using frame-to-frame overlap
 
 
 
